@@ -3,100 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\taskerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\taskerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\taskdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\taskdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\services\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\services\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\models\\atask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\models\\atask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\refreshtokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\refreshtokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\migrations\\20260307170554_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\migrations\\20260307170554_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|c:\\users\\m. hammad khan\\desktop\\100% daily\\backend\\jwt\\taskerapi\\taskerapi\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67FC061-EFE0-4587-A90A-ED72336D5926}|TaskerApi\\TaskerApi.csproj|solutionrelative:taskerapi\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,21 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Log.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Log.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Log.cs",
-              "RelativeToolTip": "TaskerApi\\Log.cs",
-              "ViewState": "AgIAABcAAAAANDMzMzMDwCYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Program.cs",
+              "RelativeToolTip": "TaskerApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAgmpmZmZktwCkAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:49:58.786Z",
+              "WhenOpened": "2026-03-03T11:50:13.218Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "TaskerApi\\Controllers\\UserAuthController.cs",
+              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "TaskerApi\\Controllers\\UserAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:00:56.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskerApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskerApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:00:59.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\UserAuthService.cs",
+              "RelativeDocumentMoniker": "TaskerApi\\Services\\UserAuthService.cs",
+              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\UserAuthService.cs",
+              "RelativeToolTip": "TaskerApi\\Services\\UserAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:00:46.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskerApi\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskerApi\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:00:51.088Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -129,286 +105,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20260307170554_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Migrations\\20260307170554_Initial.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Migrations\\20260307170554_Initial.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Migrations\\20260307170554_Initial.cs",
-              "RelativeToolTip": "TaskerApi\\Migrations\\20260307170554_Initial.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:05:54.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RefreshTokenRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RefreshTokenRequestDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\RefreshTokenRequestDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RefreshTokenRequestDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\RefreshTokenRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T09:41:38.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\ITaskService.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Services\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\ITaskService.cs",
-              "RelativeToolTip": "TaskerApi\\Services\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T15:42:38.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskerApi.csproj",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\TaskerApi.csproj",
-              "RelativeDocumentMoniker": "TaskerApi\\TaskerApi.csproj",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\TaskerApi.csproj",
-              "RelativeToolTip": "TaskerApi\\TaskerApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-05T15:27:22.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\IUserAuthService.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Services\\IUserAuthService.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\IUserAuthService.cs",
-              "RelativeToolTip": "TaskerApi\\Services\\IUserAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T18:29:23.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RefreshTokenResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RefreshTokenResponseDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\RefreshTokenResponseDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RefreshTokenResponseDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\RefreshTokenResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T17:20:41.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\UserAuthService.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Services\\UserAuthService.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\UserAuthService.cs",
-              "RelativeToolTip": "TaskerApi\\Services\\UserAuthService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:41:47.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\LoginResponseDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:29:47.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\LoginRequestDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:29:35.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaskDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\TaskDetailDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\TaskDetailDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\TaskDetailDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\TaskDetailDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:29:09.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\UpdateTaskDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\UpdateTaskDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\UpdateTaskDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\UpdateTaskDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:29:01.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateTaskDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\CreateTaskDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\CreateTaskDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\CreateTaskDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\CreateTaskDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:28:49.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\DTOS\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\DTOS\\RegisterRequestDto.cs",
-              "RelativeToolTip": "TaskerApi\\DTOS\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T16:50:12.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ServiceResult.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\ServiceResult.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\ServiceResult.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\ServiceResult.cs",
-              "RelativeToolTip": "TaskerApi\\ServiceResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T16:43:52.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskerApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\appsettings.json",
-              "RelativeToolTip": "TaskerApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-03T16:35:07.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Services\\TaskService.cs",
-              "RelativeToolTip": "TaskerApi\\Services\\TaskService.cs",
-              "ViewState": "AgIAABYAAAAAzGVmZmbWvx4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:16:29.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserAuthController.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\UserAuthController.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Controllers\\UserAuthController.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\UserAuthController.cs",
-              "RelativeToolTip": "TaskerApi\\Controllers\\UserAuthController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:10:18.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskerApi\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAADcAAADAyszMzMwkwEAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:10:05.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TaskerApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:00:10.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Status.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Status.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Status.cs",
-              "RelativeToolTip": "TaskerApi\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:54:54.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ATask.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Models\\ATask.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Models\\ATask.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Models\\ATask.cs",
-              "RelativeToolTip": "TaskerApi\\Models\\ATask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:52:36.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Models\\User.cs",
-              "RelativeToolTip": "TaskerApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:52:08.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Program.cs",
-              "RelativeDocumentMoniker": "TaskerApi\\Program.cs",
-              "ToolTip": "C:\\Users\\M. Hammad Khan\\Desktop\\100% daily\\Backend\\JWT\\TaskerApi\\TaskerApi\\Program.cs",
-              "RelativeToolTip": "TaskerApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:50:13.218Z"
             }
           ]
         }
